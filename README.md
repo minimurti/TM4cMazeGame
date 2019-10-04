@@ -1,5 +1,6 @@
 # TM4cMazeGame
-A graphical maze game which uses the two onboard buttons of a TM4C board and an LCD 
+A graphical maze game which uses the two onboard buttons of a TM4C board and an LCD,
+
 Here is an image of a toddler playing it
 
 <img src="./IMG_4883%202.jpeg" width="200" height="300">
